@@ -1,3 +1,8 @@
 # User Management Screen
 
-## Projenin Amacı 
+
+####List(-)
+
+- The goal of the project
+- Requirements and Details
+
