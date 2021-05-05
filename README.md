@@ -30,6 +30,12 @@
 - When the Save button is clicked, the necessary documents will be sent to the database and the information of the required persons will be shown on the same screen
 - Records will be table
 - There will be a box next to each entrance
+- There will be a regex check for mail
+- When the first system is opened, information will be extracted from the database
+- If there is an error, it will be shown as a popup
+- The value will show in the table
+- Hide disabled user checkbox will be shown
+- the active box will be the checkbox
 
 
 
