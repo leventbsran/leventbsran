@@ -17,25 +17,25 @@
 - Tracking of activity status
 
 ## Requirements and Details
-- There will be a new record button
+- The authorized user enters the system
+- When the first system is opened, information will be extracted from the database
 - New registration panel will be shown to the authorized user
+- There will be a new record button
 - Questions to be asked in new registration
-1) UserName:
-2) DisplayName:
-3) Phone:
-4) Email:
-5) User Roles(guest,admin,superadmin)
-6) Enabled
-- After the necessary information is entered, the order can be changed as desired.
-- When the Save button is clicked, the necessary documents will be sent to the database and the information of the required persons will be shown on the same screen
-- Records will be table
+1) UserName:(textbox)
+2) DisplayName:(textbox)
+3) Phone:(textbox)
+4) Email:(textbox)
+5) User Roles(guest,admin,superadmin)(option)
+6) Enabled(checkbox)
 - There will be a box next to each entrance
 - There will be a regex check for mail
-- When the first system is opened, information will be extracted from the database
 - If there is an error, it will be shown as a popup
-- The value will show in the table
-- Hide disabled user checkbox will be shown
 - The active box will be the checkbox
+- When the Save button is clicked, the necessary documents will be sent to the database and the information of the required persons will be shown on the same screen
+- Records will be table
+- The value will show in the table
+- The order in the table can be changed according to the required feature
 
 
 
