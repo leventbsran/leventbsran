@@ -19,9 +19,9 @@
 
 - New registration panel will be shown to the authorized user
 - Questions to be asked in new registration
-UserName:
-DisplayName:
-Phone:
-Email:
-User Roles(guest,admin,superadmin)
-Enabled
+1) UserName:
+2) DisplayName:
+3) Phone:
+4) Email:
+5) User Roles(guest,admin,superadmin)
+6) Enabled
