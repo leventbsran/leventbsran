@@ -35,7 +35,7 @@
 - If there is an error, it will be shown as a popup
 - The value will show in the table
 - Hide disabled user checkbox will be shown
-- the active box will be the checkbox
+- The active box will be the checkbox
 
 
 
