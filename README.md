@@ -35,8 +35,7 @@
 
 ## Sample Project
 - Made with Bootstrap 4.0.0 , To run it, please install it
-[![image](https://r.resimlink.com/ryNiTHXE.jpg)](https://resimlink.com/ryNiTHXE)
-
+[![image](https://r.resimlink.com/4APoO.jpg)](https://resimlink.com/4APoO)
 ```html
 
 <!doctype html>
